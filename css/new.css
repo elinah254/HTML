@@ -1,0 +1,35 @@
+
+body{
+	background-color: hotpink;
+	
+	text-decoration: underline;
+
+	
+}
+
+table tr:hover{
+	 color: orangered;
+	border-block: blue;
+}
+
+
+h1{color: blue;
+}
+
+h2, h3, h5 {
+	color: orangered;
+}
+.paragraphA{
+	color: darkgrey;
+}
+
+#paragraphB{
+	color: darkgreen;
+}
+
+p{
+	text-align: center;
+}
+h1{ text-align: right;
+ }
+ 

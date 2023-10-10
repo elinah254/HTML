@@ -1,0 +1,33 @@
+body{
+	
+	background-image: url(images/mountain.jpg);
+background-size: inherit;
+border-spacing: inherit;
+}
+p{
+	color: yellow;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+h3,h4,h5{color: black;
+
+}
+h4{
+	color: green ;
+
+}
+
+.heading{
+	color: green;
+}
+#heading{
+	color: green;
+}
+
+table tr:hover {
+	color: white;
+}]
+
+
+
+
